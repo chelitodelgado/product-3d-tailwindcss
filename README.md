@@ -1,10 +1,11 @@
 <img width="700" src="https://github.com/chelitodelgado/lotedeimagenes/blob/main/src/chelitodelgado.jpg?raw=true">
 
-# Crud utilizando nodejs, express, y mysql como gestor de base de datos.
+# Visualizador de productos con un efecto 3D, utilizando taildwincss como framework de estilos.
 
 ## Acerca de ...
-Esta es una API REST donde puedes crear, obtener, actualizar y eliminar informacion de una tabla
-de usuarios, puedes eliminar el usuario de manera logica y de esta forma omites eliminarlo de la base de datos y asi no perder la integridad de datos que este usuario aya creado al igual que puedes activarlo nuevamente.
+Este es un ejemplo simple de la implementaciòn de un visualizador de productos 
+para un e-commerce o una pagina web informativa añadiendo un efecto 3D
+para tener una vista mejor del producto a mostrar.
 
 ## Mis redes sociales
 
